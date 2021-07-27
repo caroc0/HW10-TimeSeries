@@ -2,6 +2,16 @@
 
 ![Yen Photo](Images/unit-10-readme-photo.png)
 
+### Files
+
+[Time-Series Starter Notebook](https://github.com/caroc0/HW10-TimeSeries/blob/main/time_series_analysis.ipynb)
+
+[Linear Regression Starter Notebook](https://github.com/caroc0/HW10-TimeSeries/blob/main/regression_analysis.ipynb)
+
+[CAD/JPY Data CSV File](https://github.com/caroc0/HW10-TimeSeries/blob/main/cad_jpy.csv)
+
+- - -
+
 ## Resources
 
 [Student Guide](https://github.com/caroc0/HW10-TimeSeries/blob/main/StudentGuide.md)
@@ -16,16 +26,6 @@ You will gain proficiency in the following tasks:
 
 1. Time series forecasting
 2. Linear regression modelling
-
-- - -
-
-### Files
-
-[Time-Series Starter Notebook](https://github.com/caroc0/HW10-TimeSeries/blob/main/time_series_analysis.ipynb)
-
-[Linear Regression Starter Notebook](https://github.com/caroc0/HW10-TimeSeries/blob/main/regression_analysis.ipynb)
-
-[CAD/JPY Data CSV File](https://github.com/caroc0/HW10-TimeSeries/blob/main/cad_jpy.csv)
 
 - - -
 
