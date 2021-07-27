@@ -4,7 +4,7 @@
 
 ## Resources
 
-[Student Guide](https://github.com/caroc0/HW10-TimeSeries/blob/main/time_series_analysis.ipynb)
+[Student Guide](https://github.com/caroc0/HW10-TimeSeries/blob/main/StudentGuide.md)
 
 ## Background
 
@@ -88,15 +88,5 @@ Use the results of the linear regression analysis and modelling to answer the fo
 
 - - -
 
-### Submission
-
-* Use the starter Jupyter Notebooks for the time series and regression analyses and host the notebooks on GitHub.
-
-* Include a markdown that summarizes your models and findings and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcampspot.
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+"© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved."
 
