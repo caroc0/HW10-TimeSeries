@@ -1,6 +1,10 @@
-# Unit 10—A Yen for the Future
+# HW10 Time Series 
 
 ![Yen Photo](Images/unit-10-readme-photo.png)
+
+## Resources
+
+[Student Guide](https://github.com/caroc0/HW10-TimeSeries/blob/main/time_series_analysis.ipynb)
 
 ## Background
 
